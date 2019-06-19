@@ -32,12 +32,14 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Removes indentation in empty lines on save.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - .
 - [Expand Selection To Scope](https://marketplace.visualstudio.com/items?itemName=vittorioromeo.expand-selection-to-scope) - This extension introduces a command that incrementally expands the selection to the nearest outer scope (delimited by bracket pairs).
-- [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command..
+- [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) - Auto-complete & preview Font Awesome icons in any language.
 - [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the .
+- [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - Allows you to browse and insert Google Fonts <link> or @import !
+- [google-search](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search) - Google your doubts, errors and confusions!
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss) - SCSS support for HTML documents.
 - [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) - Advanced increment / decrement actions for just about anything!
@@ -59,6 +61,8 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
 - [nginx.conf hint](https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint) - nginx.conf syntax, hint and autocompletion.
 - [nginx.conf](https://marketplace.visualstudio.com/items?itemName=shanoor.vscode-nginx) - Syntax highlighter for nginx conf files.
+- [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
+- [node-readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - A vscode extension to view javascript module documentation in editor.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Syntax highlighting for log files.
@@ -73,6 +77,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
 - [Sass Helper](https://marketplace.visualstudio.com/items?itemName=ramyaraoa.sass-helper) - Convert css to scss by extracting mixins and nesting rules and properties.
+- [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 - [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Semantic UI Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets) - Semantic UI snippets for VS Code.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
@@ -82,6 +87,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon) - toggle semicolon, colon and comma.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash!
 - [Vagrantfile Support](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-vagrantfile) - Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant.
+- [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) - Translate text right in your code.
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code.
 - [Wrap Console Log](https://marketplace.visualstudio.com/items?itemName=midnightsyntax.vscode-wrap-console-log) - Wrap to console.log by word or selection.
