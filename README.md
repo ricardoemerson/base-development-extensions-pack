@@ -24,6 +24,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) - Copy/Cut the current word when there is no selection.
 - [copy-json-path](https://marketplace.visualstudio.com/items?itemName=nidu.copy-json-path) - Copy json path under the cursor.
 - [Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets) - Code snippet for creating your own snippets.
+- [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js) - Code snippet for creating your own snippets.
 - [Dark Atom Dark Green Cursor Theme](https://marketplace.visualstudio.com/items?itemName=therealmarv.vscode-theme-dark-atom-dark-green-cursor) - Beautiful Atom Dark with green Cursor eyecandy.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..

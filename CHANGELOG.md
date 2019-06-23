@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.4.0]
+
+- Added CSS-in-JS extension.
+
 ## [1.3.0]
 
 - Added Auto Import - ES6, TS, JSX, TSX extension.
