@@ -2,6 +2,13 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.5.0]
+
+- Added GitLens extension.
+- Added GraphQL extension.
+- Added Material Icon Theme extension.
+- Removed vscode-icons extension.
+
 ## [1.4.0]
 
 - Added CSS-in-JS extension.

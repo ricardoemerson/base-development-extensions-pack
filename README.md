@@ -23,8 +23,8 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - Copy Relative Path from a File.
 - [Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) - Copy/Cut the current word when there is no selection.
 - [copy-json-path](https://marketplace.visualstudio.com/items?itemName=nidu.copy-json-path) - Copy json path under the cursor.
-- [Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets) - Code snippet for creating your own snippets.
 - [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js) - Code snippet for creating your own snippets.
+- [Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets) - Code snippet for creating your own snippets.
 - [Dark Atom Dark Green Cursor Theme](https://marketplace.visualstudio.com/items?itemName=therealmarv.vscode-theme-dark-atom-dark-green-cursor) - Beautiful Atom Dark with green Cursor eyecandy.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
@@ -41,8 +41,10 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the .
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - Allows you to browse and insert Google Fonts <link> or @import !
 - [google-search](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search) - Google your doubts, errors and confusions!
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss) - SCSS support for HTML documents.
 - [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) - Advanced increment / decrement actions for just about anything!
@@ -63,6 +65,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [Log Viewer](https://marketplace.visualstudio.com/items?itemName=berublan.vscode-log-viewer) - Monitors text log files.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 - [Meta-snippet for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-meta-snippet) - Snippet to define snippets for Visual Studio Code.
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
 - [nginx.conf hint](https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint) - nginx.conf syntax, hint and autocompletion.
@@ -97,7 +100,6 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Vagrantfile Support](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-vagrantfile) - Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant.
 - [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) - Translate text right in your code.
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code.
 - [Wrap Console Log](https://marketplace.visualstudio.com/items?itemName=midnightsyntax.vscode-wrap-console-log) - Wrap to console.log by word or selection.
 - [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection) - wrap selection with combination of symbols or your custom pattern.
 - [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) - Convert XML from clipboard or current document/selection to JSON.
