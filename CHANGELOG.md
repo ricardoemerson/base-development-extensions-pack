@@ -2,6 +2,13 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.7.0]
+
+- Removed Atom JavaScript (ES6) code snippets extension.
+- Removed Atom JavaScript Snippet extension.
+- Removed Atom JavaScript Snippet Pack extension.
+-
+
 ## [1.6.0]
 
 - Added JavaScript Code Snippet extension.

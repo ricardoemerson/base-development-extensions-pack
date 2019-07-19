@@ -6,7 +6,6 @@ This extension pack packages some useful extensions for base developmento in VS 
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Create autocomplete items from open files in VSCode..
-- [Atom JavaScript Snippet](https://marketplace.visualstudio.com/items?itemName=gluons.vscode-atom-javascript-snippet) - Atom JavaScript Snippet for Visual Studio Code.
 - [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with JavaScript and TypeScript. [Forked].
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 - [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Align code without selecting them first.
@@ -52,11 +51,9 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) - Highlights your current indent depth.
 - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers) - Insert increasing numbers.
 - [IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion) - :class and :id completion for HTML, Latte, Slim, PHP, ERB, Javascript, CSS and SCSS. Just declare class in your template and see it in your CSS/SCSS file. (Both ways).
-- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands.
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
-- [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack) - A snippet pack to make you more productive working with JavaScript.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
 - [JSON Organizer](https://marketplace.visualstudio.com/items?itemName=rintoj.json-organizer) - Help you organize JSON.
 - [JSON Schema Validator](https://marketplace.visualstudio.com/items?itemName=tberman.json-schema-validator) - Validate json schemas live in VS Code.

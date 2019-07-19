@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -17,7 +17,6 @@
   ],
   "extensionPack": [
     "4tron.semantic-ui-snippets",
-    "akamud.vscode-javascript-snippet-pack",
     "alefragnani.Bookmarks",
     "alefragnani.copy-word",
     "alexdima.copy-relative-path",
@@ -52,7 +51,6 @@
     "funkyremi.vscode-google-translate",
     "gencer.html-slim-scss-css-class-completion",
     "giyyapan.fast-snippet",
-    "gluons.vscode-atom-javascript-snippet",
     "GregorBiswanger.json2ts",
     "guosong.bracketselection",
     "hangxingliu.vscode-nginx-conf-hint",
@@ -118,7 +116,6 @@
     "wmontalvo.vsc-jsonsnippets",
     "wmontalvo.vsc-meta-snippet",
     "wwm.better-align",
-    "xabikos.JavaScriptSnippets",
     "yzhang.markdown-all-in-one"
   ],
   "__metadata": {
