@@ -54,6 +54,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion) - :class and :id completion for HTML, Latte, Slim, PHP, ERB, Javascript, CSS and SCSS. Just declare class in your template and see it in your CSS/SCSS file. (Both ways).
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands.
+- [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack) - A snippet pack to make you more productive working with JavaScript.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
@@ -90,6 +91,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Semantic UI Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets) - Semantic UI snippets for VS Code.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+- [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=vincentkos.snippet-creator) - Create snippets from selection.
 - [Snippet for JSON](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-jsonsnippets) - Makes writing JSON fluent, with a simple set of snippets.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...

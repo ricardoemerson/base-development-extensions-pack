@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.6.0]
+
+- Added JavaScript Code Snippet extension.
+- Added Snippet Creator extension.
+
 ## [1.5.0]
 
 - Added GitLens extension.
