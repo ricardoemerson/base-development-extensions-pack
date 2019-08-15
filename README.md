@@ -54,6 +54,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands.
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
+- [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets) - JavaScript (ES6) code snippets for VS Code.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
 - [JSON Organizer](https://marketplace.visualstudio.com/items?itemName=rintoj.json-organizer) - Help you organize JSON.
 - [JSON Schema Validator](https://marketplace.visualstudio.com/items?itemName=tberman.json-schema-validator) - Validate json schemas live in VS Code.
@@ -71,6 +72,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [node-readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - A vscode extension to view javascript module documentation in editor.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
+- [Nunjucks](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks) - A Nunjucks syntax definition.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Syntax highlighting for log files.
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.

@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.8.0]
+
+- Added JavaScript Snippets extension.
+- Added Nunjucks extension.
+
 ## [1.7.0]
 
 - Removed Atom JavaScript (ES6) code snippets extension.
