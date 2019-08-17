@@ -72,6 +72,8 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [node-readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - A vscode extension to view javascript module documentation in editor.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
+- [Nunjucks Snippets](https://marketplace.visualstudio.com/items?itemName=luwenjiechn.nunjucks-vscode-snippets) - Nunjucks Snippets for Visual Studio Code.
+- [Nunjucks Template Formatter](https://marketplace.visualstudio.com/items?itemName=okitavera.vscode-nunjucks-formatter) - Formatter for Nunjucks template.
 - [Nunjucks](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks) - A Nunjucks syntax definition.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Syntax highlighting for log files.
@@ -82,6 +84,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) - Language pack extension for Portuguese (Brazil).
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
+- [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - quick require(import) file.
 - [Relative Path Refactor](https://marketplace.visualstudio.com/items?itemName=jakob101.relativepathrefactor) - When refactoring, fix relative path errors. Automatically find and fix all relative paths for all files in a folder. After fixing, review changes!
 - [Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
@@ -90,7 +93,6 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Semantic UI Snippets](https://marketplace.visualstudio.com/items?itemName=4tron.semantic-ui-snippets) - Semantic UI snippets for VS Code.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
-- [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=vincentkos.snippet-creator) - Create snippets from selection.
 - [Snippet for JSON](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-jsonsnippets) - Makes writing JSON fluent, with a simple set of snippets.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...
@@ -107,5 +109,6 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat.
 - [YAML key viewer](https://marketplace.visualstudio.com/items?itemName=cybai.yaml-key-viewer) - YAML key viewer for Visual Studio Code.
 - [Yaml Symbols](https://marketplace.visualstudio.com/items?itemName=Cronos87.yaml-symbols) - Provide Symbols for Yaml Files.
+- [VS Code Snippet Generator](https://marketplace.visualstudio.com/items?itemName=dkultasev.vs-code-snippet-generator) - Generate VS Code snippet JSON block for selected text.
 
 **Enjoy!**
