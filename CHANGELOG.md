@@ -2,6 +2,16 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.10.0]
+
+- Added AdonisJs 4.1 Snippets extension.
+- Added Edge template support extension.
+- Added Jest Snippets extension.
+- Added sync-env extension.
+- Removed Nunjucks extension.
+- Removed Nunjucks Snippets extension.
+- Removed Nunjucks Template Formatter extension.
+
 ## [1.9.0]
 
 - Added Nunjucks Snippets extension.

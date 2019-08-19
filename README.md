@@ -5,6 +5,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 ### Extensions Included
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
+- [AdonisJs 4.1 Snippets](https://marketplace.visualstudio.com/items?itemName=EmadFanaian.adonisjs-snippets) - Starter AdonisJs Snippets For Poor Lazy Developers.
 - [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Create autocomplete items from open files in VSCode..
 - [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with JavaScript and TypeScript. [Forked].
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
@@ -30,6 +31,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes) - Transform quotes of ECMAScript string literals.
+- [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - .
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Removes indentation in empty lines on save.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - .
@@ -55,6 +57,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
 - [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets) - JavaScript (ES6) code snippets for VS Code.
+- [Jest Snippets](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets) - Code snippets for testing framework Jest.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
 - [JSON Organizer](https://marketplace.visualstudio.com/items?itemName=rintoj.json-organizer) - Help you organize JSON.
 - [JSON Schema Validator](https://marketplace.visualstudio.com/items?itemName=tberman.json-schema-validator) - Validate json schemas live in VS Code.
@@ -72,9 +75,6 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [node-readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - A vscode extension to view javascript module documentation in editor.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
-- [Nunjucks Snippets](https://marketplace.visualstudio.com/items?itemName=luwenjiechn.nunjucks-vscode-snippets) - Nunjucks Snippets for Visual Studio Code.
-- [Nunjucks Template Formatter](https://marketplace.visualstudio.com/items?itemName=okitavera.vscode-nunjucks-formatter) - Formatter for Nunjucks template.
-- [Nunjucks](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks) - A Nunjucks syntax definition.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Syntax highlighting for log files.
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.
@@ -95,12 +95,14 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - [Snippet for JSON](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-jsonsnippets) - Makes writing JSON fluent, with a simple set of snippets.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
+- [sync-env](https://marketplace.visualstudio.com/items?itemName=dongido.sync-env) - Sync env files.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...
 - [toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon) - toggle semicolon, colon and comma.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash!
 - [transpose](https://marketplace.visualstudio.com/items?itemName=v4run.transpose) - Transpose is an extension for VSCode for transposing/swapping selections or characters.
 - [Unique Lines](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines) - Keep unique lines of text and remove duplicates from current selection. Also includes a command to shuffle currently selected lines.
 - [Vagrantfile Support](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-vagrantfile) - Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant.
+- [VS Code Snippet Generator](https://marketplace.visualstudio.com/items?itemName=dkultasev.vs-code-snippet-generator) - Generate VS Code snippet JSON block for selected text.
 - [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) - Translate text right in your code.
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
 - [Wrap Console Log](https://marketplace.visualstudio.com/items?itemName=midnightsyntax.vscode-wrap-console-log) - Wrap to console.log by word or selection.
@@ -109,6 +111,5 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat.
 - [YAML key viewer](https://marketplace.visualstudio.com/items?itemName=cybai.yaml-key-viewer) - YAML key viewer for Visual Studio Code.
 - [Yaml Symbols](https://marketplace.visualstudio.com/items?itemName=Cronos87.yaml-symbols) - Provide Symbols for Yaml Files.
-- [VS Code Snippet Generator](https://marketplace.visualstudio.com/items?itemName=dkultasev.vs-code-snippet-generator) - Generate VS Code snippet JSON block for selected text.
 
 **Enjoy!**
