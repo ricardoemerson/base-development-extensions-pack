@@ -19,6 +19,7 @@ This extension pack packages some useful extensions for base developmento in VS 
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, and custom command.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
+- [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
 - [Console Log](https://marketplace.visualstudio.com/items?itemName=Luis.console-log) - Create console.log lines faster.
 - [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - Copy Relative Path from a File.
 - [Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) - Copy/Cut the current word when there is no selection.
