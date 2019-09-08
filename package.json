@@ -3,7 +3,7 @@
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
   "version": "1.12.0",
-  "publisher": "ricardo-emerson",
+  "publisher": "ricardoemerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
   "engines": {
