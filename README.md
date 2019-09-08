@@ -1,6 +1,6 @@
-# VS Code Base Development Extensions Pack
+# Base Development Extensions Pack
 
-This extension pack packages some useful extensions for base developmento in VS Code.
+This extension package contains useful extensions for base development in visual studio code.
 
 ### Extensions Included
 
