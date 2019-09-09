@@ -32,10 +32,10 @@ This extension package contains useful extensions for base development in visual
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes) - Transform quotes of ECMAScript string literals.
-- [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - .
+- [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Removes indentation in empty lines on save.
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - .
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [Expand Selection To Scope](https://marketplace.visualstudio.com/items?itemName=vittorioromeo.expand-selection-to-scope) - This extension introduces a command that incrementally expands the selection to the nearest outer scope (delimited by bracket pairs).
 - [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
@@ -84,6 +84,7 @@ This extension package contains useful extensions for base development in visual
 - [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images) - Generate and insert placeholder images into your HTML.
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) - Language pack extension for Portuguese (Brazil).
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
 - [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - quick require(import) file.
 - [Relative Path Refactor](https://marketplace.visualstudio.com/items?itemName=jakob101.relativepathrefactor) - When refactoring, fix relative path errors. Automatically find and fix all relative paths for all files in a folder. After fixing, review changes!

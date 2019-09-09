@@ -2,10 +2,20 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.14.0]
+
+- Fix the README.
+- Added Prettier - Code formatter extension.
+- Updated package keywords.
+
+## [1.13.1]
+
+- Updated package keywords.
+
 ## [1.13.0]
 
-- Removed vscode-icons extension.
 - Fix the README.
+- Removed vscode-icons extension.
 
 ## [1.12.0]
 
