@@ -20,7 +20,6 @@ This extension package contains useful extensions for base development in visual
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, and custom command.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
-- [Console Log](https://marketplace.visualstudio.com/items?itemName=Luis.console-log) - Create console.log lines faster.
 - [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - Copy Relative Path from a File.
 - [Copy Word in Cursor](https://marketplace.visualstudio.com/items?itemName=alefragnani.copy-word) - Copy/Cut the current word when there is no selection.
 - [copy-json-path](https://marketplace.visualstudio.com/items?itemName=nidu.copy-json-path) - Copy json path under the cursor.
@@ -107,7 +106,6 @@ This extension package contains useful extensions for base development in visual
 - [VS Code Snippet Generator](https://marketplace.visualstudio.com/items?itemName=dkultasev.vs-code-snippet-generator) - Generate VS Code snippet JSON block for selected text.
 - [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) - Translate text right in your code.
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
-- [Wrap Console Log](https://marketplace.visualstudio.com/items?itemName=midnightsyntax.vscode-wrap-console-log) - Wrap to console.log by word or selection.
 - [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection) - wrap selection with combination of symbols or your custom pattern.
 - [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) - Convert XML from clipboard or current document/selection to JSON.
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat.

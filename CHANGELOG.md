@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.15.0]
+
+- Removed Console Log extension.
+- Removed Wrap Console Log extension.
+
 ## [1.14.0]
 
 - Fix the README.
