@@ -48,6 +48,7 @@ This extension package contains useful extensions for base development in visual
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss) - SCSS support for HTML documents.
+- [Increment Selection](https://marketplace.visualstudio.com/items?itemName=albymor.increment-selection) - Increment selection with multiple cursors.
 - [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) - Advanced increment / decrement actions for just about anything!
 - [Indent 4-to-2](https://marketplace.visualstudio.com/items?itemName=Compulim.indent4to2) - Convert indentation from tab or 4 spaces into 2 spaces.
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) - Highlights your current indent depth.

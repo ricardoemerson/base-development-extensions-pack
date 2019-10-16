@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.16.0]
+
+- Added Increment Selection extension.
+
 ## [1.15.0]
 
 - Removed Console Log extension.

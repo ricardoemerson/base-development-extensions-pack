@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -11,6 +11,7 @@
   },
   "keywords": [
     "adonisjs",
+    "albymor.increment-selection",
     "align",
     "autocomplete",
     "bookmark",
