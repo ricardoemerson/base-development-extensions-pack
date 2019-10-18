@@ -6,7 +6,6 @@ This extension package contains useful extensions for base development in visual
 
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [AdonisJs 4.1 Snippets](https://marketplace.visualstudio.com/items?itemName=EmadFanaian.adonisjs-snippets) - Starter AdonisJs Snippets For Poor Lazy Developers.
-- [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Create autocomplete items from open files in VSCode..
 - [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with JavaScript and TypeScript. [Forked].
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 - [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Align code without selecting them first.
