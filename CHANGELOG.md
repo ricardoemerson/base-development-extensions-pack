@@ -2,6 +2,23 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.18.0]
+
+- Added Editor Enhancements extension.
+- Added Svg Preview extension.
+- Removed Better Align extension.
+- Removed Bracket Selection extension.
+- Removed Break From Comma extension.
+- Removed Copy Word in Cursor extension.
+- Removed copy-json-path extension.
+- Removed CSS-in-JS extension.
+- Removed ECMAScript Quotes Transformer extension.
+- Removed Expand Selection To Scope extension.
+- Removed Indent 4-to-2 extension.
+- Removed Output Colorizer extension.
+- Removed Quick and Simple Text Selection extension.
+- Removed Relative Path Refactor extension.
+
 ## [1.17.0]
 
 - Removed All Autocomplete extension.
