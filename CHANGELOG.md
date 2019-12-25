@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.19.0]
+
+- Added Quick and Simple Text Selection extension.
+
 ## [1.18.0]
 
 - Added Editor Enhancements extension.
