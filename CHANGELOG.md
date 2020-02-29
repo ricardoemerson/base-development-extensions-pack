@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.21.0]
+
+- Added Compare Folders extension.
+
 ## [1.20.0]
 
 - Removed Auto Import - ES6, TS, JSX, TSX extension.
