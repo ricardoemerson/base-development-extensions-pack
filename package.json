@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -73,6 +73,7 @@
     "trailing",
     "translate",
     "vagrant",
+    "wix.vscode-import-cost",
     "wrap",
     "xml",
     "yaml"

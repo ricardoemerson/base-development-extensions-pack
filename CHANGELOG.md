@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.22.0]
+
+- Added Import Cost extension.
+
 ## [1.21.0]
 
 - Added Compare Folders extension.
