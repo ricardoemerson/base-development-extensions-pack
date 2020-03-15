@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -122,6 +122,7 @@
     "giyyapan.fast-snippet",
     "gurayyarar.editorenhancements",
     "GregorBiswanger.json2ts",
+    "Gruntfuggly.todo-tree",
     "hangxingliu.vscode-nginx-conf-hint",
     "henriiik.docker-linter",
     "JakeWilson.vscode-placeholder-images",
@@ -178,7 +179,8 @@
     "wmaurer.change-case",
     "wmontalvo.vsc-jsonsnippets",
     "wmontalvo.vsc-meta-snippet",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "ZainChen.json"
   ],
   "__metadata": {
     "publisherDisplayName": "Ricardo Emerson"

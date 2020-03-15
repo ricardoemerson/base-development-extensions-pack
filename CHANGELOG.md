@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.23.0]
+
+- Added json extension.
+- Added Todo Tree extension.
+
 ## [1.22.0]
 
 - Added Import Cost extension.

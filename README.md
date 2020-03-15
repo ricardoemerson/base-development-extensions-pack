@@ -52,6 +52,7 @@ This extension package contains useful extensions for base development in visual
 - [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets) - JavaScript (ES6) code snippets for VS Code.
 - [Jest Snippets](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets) - Code snippets for testing framework Jest.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
+- [json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json) - Json for Visual Studio Code.
 - [JSON Organizer](https://marketplace.visualstudio.com/items?itemName=rintoj.json-organizer) - Help you organize JSON.
 - [JSON Schema Validator](https://marketplace.visualstudio.com/items?itemName=tberman.json-schema-validator) - Validate json schemas live in VS Code.
 - [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools) - Tools for manipulating JSON.
@@ -90,6 +91,7 @@ This extension package contains useful extensions for base development in visual
 - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Svg Preview for VSCode.
 - [sync-env](https://marketplace.visualstudio.com/items?itemName=dongido.sync-env) - Sync env files.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
 - [toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon) - toggle semicolon, colon and comma.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash!
 - [transpose](https://marketplace.visualstudio.com/items?itemName=v4run.transpose) - Transpose is an extension for VSCode for transposing/swapping selections or characters.
