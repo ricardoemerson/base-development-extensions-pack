@@ -75,7 +75,6 @@ This extension package contains useful extensions for base development in visual
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images) - Generate and insert placeholder images into your HTML.
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
-- [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) - Language pack extension for Portuguese (Brazil).
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
 - [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - quick require(import) file.

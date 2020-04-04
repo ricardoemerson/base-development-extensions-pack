@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.24.0]
+
+- Removed Portuguese (Brazil) Language Pack for Visual Studio Code extension.
+
 ## [1.23.0]
 
 - Added json extension.
