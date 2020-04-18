@@ -2,6 +2,12 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.25.0]
+
+- Added Jest extension.
+- Added TypeScript Toolbox extension.
+- Added Visual Studio IntelliCode extension.
+
 ## [1.24.0]
 
 - Removed Portuguese (Brazil) Language Pack for Visual Studio Code extension.

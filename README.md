@@ -50,6 +50,7 @@ This extension package contains useful extensions for base development in visual
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
 - [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets) - JavaScript (ES6) code snippets for VS Code.
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 - [Jest Snippets](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets) - Code snippets for testing framework Jest.
 - [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Over 130 jQuery Code Snippets.
 - [json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json) - Json for Visual Studio Code.
@@ -94,8 +95,10 @@ This extension package contains useful extensions for base development in visual
 - [toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon) - toggle semicolon, colon and comma.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash!
 - [transpose](https://marketplace.visualstudio.com/items?itemName=v4run.transpose) - Transpose is an extension for VSCode for transposing/swapping selections or characters.
+- [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter) - Add and Optimize Imports, Generate Getters / Setters and Constructors.
 - [Unique Lines](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines) - Keep unique lines of text and remove duplicates from current selection. Also includes a command to shuffle currently selected lines.
 - [Vagrantfile Support](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-vagrantfile) - Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant.
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 - [VS Code Snippet Generator](https://marketplace.visualstudio.com/items?itemName=dkultasev.vs-code-snippet-generator) - Generate VS Code snippet JSON block for selected text.
 - [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate) - Translate text right in your code.
 - [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
