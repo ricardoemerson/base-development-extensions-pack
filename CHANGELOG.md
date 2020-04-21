@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.26.0]
+
+- Removed All Autocomplete extension. In 1.17.0 not was removed.
+
 ## [1.25.0]
 
 - Added Jest extension.
