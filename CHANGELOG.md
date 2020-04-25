@@ -2,6 +2,12 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.27.0]
+
+- Added Dracula Oficial Theme extension.
+- Added Markdown Preview Enhanced extension.
+- Removed Copy Relative Path extension.
+
 ## [1.26.0]
 
 - Removed All Autocomplete extension. In 1.17.0 not was removed.

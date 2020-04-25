@@ -1,5 +1,10 @@
 # Base Development Extensions Pack
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack&ssr=false#review-details)
+
 This extension package contains useful extensions for base development in visual studio code.
 
 ### Extensions Included
@@ -16,13 +21,13 @@ This extension package contains useful extensions for base development in visual
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
 - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) - Compare folders by contents, present the files that have differences and display the diffs side by side.
-- [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - Copy Relative Path from a File.
 - [Custom Snippets](https://marketplace.visualstudio.com/items?itemName=NgekNgok.vscode-custom-snippets) - Code snippet for creating your own snippets.
 - [Dark Atom Dark Green Cursor Theme](https://marketplace.visualstudio.com/items?itemName=therealmarv.vscode-theme-dark-atom-dark-green-cursor) - Beautiful Atom Dark with green Cursor eyecandy.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - Official Dracula Theme. A dark theme for many editors, shells, and more.
 - [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=gurayyarar.editorenhancements) - HTML and URL encodings, transformations and sorting of selected text the editor.
@@ -62,6 +67,7 @@ This extension package contains useful extensions for base development in visual
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [Log Viewer](https://marketplace.visualstudio.com/items?itemName=berublan.vscode-log-viewer) - Monitors text log files.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced ported to vscode.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 - [Meta-snippet for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-meta-snippet) - Snippet to define snippets for Visual Studio Code.
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
