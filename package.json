@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "A set of useful extensions for development.",
-  "version": "1.27.0",
+  "version": "1.28.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -66,6 +66,7 @@
     "snippet",
     "sort",
     "spaces",
+    "surround",
     "svg",
     "todo",
     "toggle",
@@ -182,6 +183,7 @@
     "wmontalvo.vsc-jsonsnippets",
     "wmontalvo.vsc-meta-snippet",
     "yzhang.markdown-all-in-one",
+    "yatki.vscode-surround",
     "ZainChen.json"
   ],
   "__metadata": {

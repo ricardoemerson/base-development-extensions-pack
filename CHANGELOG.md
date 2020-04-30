@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.28.0]
+
+- Added Surround extension.
+
 ## [1.27.0]
 
 - Added Dracula Oficial Theme extension.
