@@ -9,7 +9,7 @@ This extension package contains useful extensions for base development in visual
 
 ### Extensions Included
 
-- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
+- [.gitignore Generator](https:fcodezombiech.gitignore//marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
@@ -33,7 +33,6 @@ This extension package contains useful extensions for base development in visual
 - [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) - Auto-complete & preview Font Awesome icons in any language.
 - [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the https://github.com/github/gitignore repository.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Add file to .gitignore.
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - Allows you to browse and insert Google Fonts <link> or @import !
