@@ -74,6 +74,7 @@ This extension package contains useful extensions for base development in visual
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
 - [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - quick require(import) file.
 - [Readme Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - A VSCode extension that generates README.md files.
+- [Reload](https://marketplace.visualstudio.com/items?itemName=natqe.reload) - Add reload button to status bar right bottom.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
 - [Sass Helper](https://marketplace.visualstudio.com/items?itemName=ramyaraoa.sass-helper) - Convert css to scss by extracting mixins and nesting rules and properties.
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.

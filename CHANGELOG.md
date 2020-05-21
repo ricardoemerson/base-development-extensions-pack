@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.31.0]
+
+- Added Reload extension.
+
 ## [1.30.0]
 
 - Added Docker extension.
