@@ -2,6 +2,16 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.30.0]
+
+- Added Docker extension.
+- Added gitignore extension.
+- Added HTML CSS Support extension.
+- Added Increment Selection extension.
+- Added Quick and Simple Text Selection extension.
+- Added Readme Pattern extension.
+- Added Version Lens extension.
+
 ## [1.29.0]
 
 - Removed AdonisJs 4.1 Snippets extension.
