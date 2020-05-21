@@ -2,6 +2,32 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.29.0]
+
+- Removed AdonisJs 4.1 Snippets extension.
+- Removed Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets extension.
+- Removed Code Runner extension.
+- Removed Custom Snippets extension.
+- Removed Dark Atom Dark Green Cursor Theme extension.
+- Removed empty-indent extension.
+- Removed Indenticator extension.
+- Removed IntelliSense for CSS, SCSS class names in HTML, Slim and SCSS extension.
+- Removed HTML SCSS Support extension.
+- Removed jQuery Code Snippets extension.
+- Removed JSON Organizer extension.
+- Removed JSON Schema Validator extension.
+- Removed json2yaml extension.
+- Removed node-readme extension.
+- Removed Prettier - Code formatter extension.
+- Removed Quick and Simple Text Selection extension.
+- Removed Relative Path extension.
+- Removed Select part of word extension.
+- Removed Semantic UI Snippets extension.
+- Removed toggle semicolon extension.
+- Removed transpose extension.
+- Removed TypeScript Toolbox extension.
+- Removed Wrap Selection extension.
+
 ## [1.28.0]
 
 - Added Surround extension.
