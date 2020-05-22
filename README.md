@@ -80,6 +80,7 @@ This extension package contains useful extensions for base development in visual
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - [Snippet for JSON](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-jsonsnippets) - Makes writing JSON fluent, with a simple set of snippets.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
+- [statusbar-commands](https://marketplace.visualstudio.com/items?itemName=anweber.statusbar-commands) - extend the statusbar with own commands.
 - [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround) - A simple yet powerful extension to add wrapper templates around your code blocks.
 - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Svg Preview for VSCode.
 - [sync-env](https://marketplace.visualstudio.com/items?itemName=dongido.sync-env) - Sync env files.
