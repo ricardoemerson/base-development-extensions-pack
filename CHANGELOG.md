@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.34.0]
+
+- Added Git Graph extension.
+
 ## [1.33.0]
 
 - Added statusbar-commands extension.
