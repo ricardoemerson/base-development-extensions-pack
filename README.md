@@ -66,6 +66,7 @@ This extension package contains useful extensions for base development in visual
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visfual Studio Code plugin that autocompletes npm modules in import statements.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
+- [Open Spec File](https://marketplace.visualstudio.com/items?itemName=thekarel.open-spec-file) - Quickly access spec files for TDD zen.
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1skn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
