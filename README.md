@@ -79,6 +79,7 @@ This extension package contains useful extensions for base development in visual
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
 - [Sass Helper](https://marketplace.visualstudio.com/items?itemName=ramyaraoa.sass-helper) - Convert css to scss by extracting mixins and nesting rules and properties.
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
+- [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - [Snippet for JSON](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-jsonsnippets) - Makes writing JSON fluent, with a simple set of snippets.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.

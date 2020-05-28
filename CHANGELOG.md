@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.36.0]
+
+- Added Select part of word extension.
+
 ## [1.35.0]
 
 - Added Open Spec File extension.
