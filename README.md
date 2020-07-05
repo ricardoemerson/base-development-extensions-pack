@@ -23,20 +23,19 @@ This extension package contains useful extensions for base development in visual
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
-- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - Official Dracula Theme. A dark theme for many editors, shells, and more.
 - [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=gurayyarar.editorenhancements) - HTML and URL encodings, transformations and sorting of selected text the editor.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-- [Font Awesome Auto-complete & Preview](https://marketplace.visualstudio.com/items?itemName=Janne252.fontawesome-autocomplete) - Auto-complete & preview Font Awesome icons in any language.
-- [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
+- [Fold Plus](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus) - Additional fold commands.
+- [Git Elior-chamla.google-fontsasy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Add file to .gitignore.
+- [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) - Create, open and edit Gists.
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
-- [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - Allows you to browse and insert Google Fonts <link> or @import !
 - [google-search](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search) - Google your doubts, errors and confusions!
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
@@ -73,7 +72,6 @@ This extension package contains useful extensions for base development in visual
 - [Placeholder Images](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images) - Generate and insert placeholder images into your HTML.
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
-- [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - quick require(import) file.
 - [Readme Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - A VSCode extension that generates README.md files.
 - [Reload](https://marketplace.visualstudio.com/items?itemName=natqe.reload) - Add reload button to status bar right bottom.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.

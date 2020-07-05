@@ -2,6 +2,14 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.37.0]
+- Added Fold Plus extension.
+- Added Gist extension.
+- Removed Dracula Official extension.
+- Removed Font Awesome Auto-complete & Preview extension.
+- Removed Google Fonts extension.
+- Removed Quick Require extension.
+
 ## [1.36.0]
 
 - Added Select part of word extension.
