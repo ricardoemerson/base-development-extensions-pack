@@ -2,6 +2,14 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.38.0]
+- Added Comment Bars extension.
+- Changed Bracket Pair Colorizer 2 extension to use version 2.
+- Removed nginx.conf extension.
+- Removed nginx.conf hint extension.
+- Removed Reload extension.
+- Removed Yaml Symbols extension.
+
 ## [1.37.0]
 - Added Fold Plus extension.
 - Added Gist extension.

@@ -12,15 +12,15 @@ This extension package contains useful extensions for base development in visual
 - [.gitignore Generator](https:fcodezombiech.gitignore//marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
+- [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) - Compare folders by contents, present the files that have differences and display the diffs side by side.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
@@ -30,7 +30,7 @@ This extension package contains useful extensions for base development in visual
 - [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [Fold Plus](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus) - Additional fold commands.
-- [Git Elior-chamla.google-fontsasy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
+- [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Add file to .gitignore.
@@ -60,8 +60,6 @@ This extension package contains useful extensions for base development in visual
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 - [Meta-snippet for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-meta-snippet) - Snippet to define snippets for Visual Studio Code.
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
-- [nginx.conf hint](https://marketplace.visualstudio.com/items?itemName=hangxingliu.vscode-nginx-conf-hint) - nginx.conf syntax, hint and autocompletion.
-- [nginx.conf](https://marketplace.visualstudio.com/items?itemName=shanoor.vscode-nginx) - Syntax highlighter for nginx conf files.
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visfual Studio Code plugin that autocompletes npm modules in import statements.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
@@ -73,7 +71,6 @@ This extension package contains useful extensions for base development in visual
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
 - [Readme Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - A VSCode extension that generates README.md files.
-- [Reload](https://marketplace.visualstudio.com/items?itemName=natqe.reload) - Add reload button to status bar right bottom.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
 - [Sass Helper](https://marketplace.visualstudio.com/items?itemName=ramyaraoa.sass-helper) - Convert css to scss by extracting mixins and nesting rules and properties.
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
@@ -98,6 +95,5 @@ This extension package contains useful extensions for base development in visual
 - [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) - Convert XML from clipboard or current document/selection to JSON.
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat.
 - [YAML key viewer](https://marketplace.visualstudio.com/items?itemName=cybai.yaml-key-viewer) - YAML key viewer for Visual Studio Code.
-- [Yaml Symbols](https://marketplace.visualstudio.com/items?itemName=Cronos87.yaml-symbols) - Provide Symbols for Yaml Files.
 
 **Enjoy!**
