@@ -2,6 +2,9 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.39.0]
+- Added Duplicate selection or line extension.
+
 ## [1.38.0]
 - Added Comment Bars extension.
 - Changed Bracket Pair Colorizer 2 extension to use version 2.

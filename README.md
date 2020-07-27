@@ -23,6 +23,7 @@ This extension package contains useful extensions for base development in visual
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
+- [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) - Duplicte functionality like you are used to.
 - [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
 - [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=gurayyarar.editorenhancements) - HTML and URL encodings, transformations and sorting of selected text the editor.
