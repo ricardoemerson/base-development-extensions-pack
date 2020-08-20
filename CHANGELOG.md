@@ -2,6 +2,27 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.40.0]
+- Added Back & Forth extension.
+- Added className Completion in CSS extension.
+- Added colorize extension.
+- Added CSS Variables Autocomplete extension.
+- Removed Color Highlight extension.
+
+> Add in your settings.json the configuration below for the colorize extension:
+```json
+"colorize.languages": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "json",
+    "html",
+    "scss",
+    "css"
+  ]
+```
+
 ## [1.39.0]
 - Added Duplicate selection or line extension.
 

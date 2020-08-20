@@ -11,14 +11,17 @@ This extension package contains useful extensions for base development in visual
 
 - [.gitignore Generator](https:fcodezombiech.gitignore//marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
+- [Back & Forth](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth) - Adds go back/forward buttons for easier navigation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
+- [className Completion in CSS](https://marketplace.visualstudio.com/items?itemName=zitup.classnametocss) - css/less/scss className IntelliSense from html/jsx/tsx.
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
-- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
+- [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) - A vscode extension to help visualize css colors in files.
 - [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) - Compare folders by contents, present the files that have differences and display the diffs side by side.
+- [CSS Variables Autocomplete](https://marketplace.visualstudio.com/items?itemName=danileao.css-variables-autocomplete) - CSS Variables Autocomplete.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
