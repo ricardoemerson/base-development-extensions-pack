@@ -17,13 +17,15 @@ This extension package contains useful extensions for base development in visual
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [className Completion in CSS](https://marketplace.visualstudio.com/items?itemName=zitup.classnametocss) - css/less/scss className IntelliSense from html/jsx/tsx.
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
+- [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize) - Adds semicolon at the end of the line and optionally newline after
+.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) - A vscode extension to help visualize css colors in files.
 - [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) - Compare folders by contents, present the files that have differences and display the diffs side by side.
 - [CSS Variables Autocomplete](https://marketplace.visualstudio.com/items?itemName=danileao.css-variables-autocomplete) - CSS Variables Autocomplete.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
-- [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers..
+- [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter) - Lint perl, python and/or ruby in your docker containers.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) - Duplicte functionality like you are used to.
@@ -75,6 +77,7 @@ This extension package contains useful extensions for base development in visual
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - Jump to select between quote, brackets, tags, etc.
 - [Readme Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern) - A VSCode extension that generates README.md files.
+- [Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) - Multi protocol support (like Azure, Dropbox, S3, (S)FTP or Slack) for handling remote files like local ones.
 - [Sass Helper](https://marketplace.visualstudio.com/items?itemName=ramyaraoa.sass-helper) - Convert css to scss by extracting mixins and nesting rules and properties.
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
@@ -86,7 +89,7 @@ This extension package contains useful extensions for base development in visual
 - [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround) - A simple yet powerful extension to add wrapper templates around your code blocks.
 - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview) - Svg Preview for VSCode.
 - [sync-env](https://marketplace.visualstudio.com/items?itemName=dongido.sync-env) - Sync env files.
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations.
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlight trailing spaces and delete them in a flash!
 - [Unique Lines](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines) - Keep unique lines of text and remove duplicates from current selection. Also includes a command to shuffle currently selected lines.

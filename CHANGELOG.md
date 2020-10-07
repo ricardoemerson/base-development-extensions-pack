@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.41.0]
+- Added Colonize extension.
+- Added Relative Path extension.
+
 ## [1.40.0]
 - Added Back & Forth extension.
 - Added className Completion in CSS extension.
