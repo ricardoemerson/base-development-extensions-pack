@@ -2,11 +2,46 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.42.0]
+
+- Added Comment Divider extension.
+- Added filesize extension.
+- Added Hex to Tailwind extension.
+- Added Omni extension.
+- Added Polacode extension.
+- Added Print It extension.
+- Added Random Everything extension.
+- Added Remote - Containers extension.
+- Added Remote - SSH extension.
+- Added Remote - SSH: Editing Configuration Files extension.
+- Added Redis Xplorer extension.
+- Added Replace Quotes extension.
+- Added Simple Readme extension.
+- Added StringToSQL extension.
+- Added Tailwind CSS IntelliSense extension.
+- Added Template String Converter extension.
+- Removed className Completion in CSS extension.
+- Removed Colonize extension.
+- Removed Compare Folders extension.
+- Removed Docker Linter extension.
+- Removed HTML CSS Support extension.
+- Removed json extension.
+- Removed Log Viewer extension.
+- Removed Placeholder Images extension.
+- Removed Relative Path extension.
+- Removed Remote Workspace extension.
+- Removed Sass Helper extension.
+- Removed Snippet for JSON extension.
+- Removed Vagrantfile Support extension.
+- Removed vscode-faker extension.
+
 ## [1.41.0]
+
 - Added Colonize extension.
 - Added Relative Path extension.
 
 ## [1.40.0]
+
 - Added Back & Forth extension.
 - Added className Completion in CSS extension.
 - Added colorize extension.
@@ -14,6 +49,7 @@ All notable changes to the "base-development-extensions-pack" extension pack wil
 - Removed Color Highlight extension.
 
 > Add in your settings.json the configuration below for the colorize extension:
+
 ```json
 "colorize.languages": [
     "javascript",
@@ -28,9 +64,11 @@ All notable changes to the "base-development-extensions-pack" extension pack wil
 ```
 
 ## [1.39.0]
+
 - Added Duplicate selection or line extension.
 
 ## [1.38.0]
+
 - Added Comment Bars extension.
 - Changed Bracket Pair Colorizer 2 extension to use version 2.
 - Removed nginx.conf extension.
@@ -39,6 +77,7 @@ All notable changes to the "base-development-extensions-pack" extension pack wil
 - Removed Yaml Symbols extension.
 
 ## [1.37.0]
+
 - Added Fold Plus extension.
 - Added Gist extension.
 - Removed Dracula Official extension.
