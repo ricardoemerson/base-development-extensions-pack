@@ -29,6 +29,7 @@ This extension package contains useful extensions for base development in visual
 ### Extensions Included
 
 - [.gitignore Generator](https:fcodezombiech.gitignore//marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
+- [Any Swap](https://marketplace.visualstudio.com/items?itemName=wolray.any-swap) - Swap parameters, lines, even complicated expressions from current cursor.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired HTML/XML tag.
 - [Back & Forth](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth) - Adds go back/forward buttons for easier navigation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
@@ -39,6 +40,7 @@ This extension package contains useful extensions for base development in visual
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) - A vscode extension to help visualize css colors in files.
 - [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) - Divide your code by sections with styled separators.
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules.
 - [CSS Variables Autocomplete](https://marketplace.visualstudio.com/items?itemName=danileao.css-variables-autocomplete) - CSS Variables Autocomplete.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
@@ -103,6 +105,8 @@ This extension package contains useful extensions for base development in visual
 - [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 - [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme) - Generate readme fastly and simply with Simple Readme.
+- [Split HTML Attributes (Vue, React, Angular)](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes) - Split your Vue, React & Angular directives & props (and HTML attributes) onto new lines, instantly!
+- [Split Lines](https://marketplace.visualstudio.com/items?itemName=brainfit.split-lines) - Splitting Lines With String Literals.
 - [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
 - [statusbar-commands](https://marketplace.visualstudio.com/items?itemName=anweber.statusbar-commands) - extend the statusbar with own commands.
 - [StringToSQL](https://marketplace.visualstudio.com/items?itemName=flpgdn.stringtosql) - A simple string converter for SQL and vice versa.

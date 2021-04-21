@@ -2,6 +2,13 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.43.0]
+
+- Added Any Swap extension.
+- Added CSS Modules extension.
+- Added Split HTML Attributes (Vue, React, Angular) extension.
+- Added Split Lines extension.
+
 ## [1.42.0]
 
 - Added Comment Divider extension.
