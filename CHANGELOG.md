@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.44.0]
+
+- Added Error Lens extension.
+
 ## [1.43.0]
 
 - Added Any Swap extension.
