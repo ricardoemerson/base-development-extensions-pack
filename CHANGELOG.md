@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.1.0]
+
+- Added Remove Comments extension.
+- Fix url for the extension Partial Diff in README.md file.
+
 ## [2.0.0]
 
 - Moved Auto Rename Tag extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).

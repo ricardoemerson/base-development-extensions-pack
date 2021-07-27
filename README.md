@@ -5,7 +5,7 @@
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.base-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack&ssr=false#review-details)
 
-This extension package contains useful extensions for base development in visual studio code. In version 2.0 only the extensions that are common to all languages were kept. For development with HTM, CSS and javascript, a new extension package called [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack) was created. There you will find the other extensions that were contained in this package
+This extension package contains useful extensions for base development in visual studio code. In version 2.0 only the extensions that are common to all languages were kept. For development with HTM, CSS and javascript, a new extension package called [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack) was created. There you will find the other extensions that were moved from this package.
 
 ## Support
 
@@ -67,7 +67,7 @@ This extension package contains useful extensions for base development in visual
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
 - [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) - A dark theme made by Rocketseat.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
-- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1skn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.
+- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - [plusplus](https://marketplace.visualstudio.com/items?itemName=ksmithut.plusplus) - Select numbers and increment/decrement them.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
@@ -79,6 +79,7 @@ This extension package contains useful extensions for base development in visual
 - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
 - [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) - Edit SSH configuration files.
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [Remove Comments](https://marketplace.visualstudio.com/items?itemName=plibither8.remove-comments) - Remove all comments from your code at once! Unclutter and undocument your code in one go!
 - [Replace Quotes](https://marketplace.visualstudio.com/items?itemName=edag94.replacequotes) - Replaces all quotes with single or double.
 - [Select part of word](https://marketplace.visualstudio.com/items?itemName=mlewand.select-part-of-word) - An extension that allows you to move selection by a word in camel-case string.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
