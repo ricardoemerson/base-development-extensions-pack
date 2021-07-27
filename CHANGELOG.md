@@ -2,6 +2,36 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.0.0]
+
+- Moved Auto Rename Tag extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved colorize extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved CSS Modules extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved CSS Variables Autocomplete extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Edge template support extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved ESLint extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved GraphQL extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Hex to Tailwind extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Highlight Matching Tag extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Import Cost extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved JavaScript Booster extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved JavaScript Code Snippet extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved javascript console utils extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved JavaScript Snippets extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Jest Snippets extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Jest extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved json2ts extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Live Server extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Node Require extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved npm Intellisense extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Open Spec File extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Path Intellisense extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Prettier - Code formatter extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Search node_modules extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Split HTML Attributes (Vue, React, Angular) extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Tailwind CSS IntelliSense extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+- Moved Template String Converter extension to [**Web Development Extensions Pack**](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack).
+
 ## [1.44.0]
 
 - Added Error Lens extension.
