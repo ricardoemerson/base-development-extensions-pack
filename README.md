@@ -33,6 +33,7 @@ This extension package contains useful extensions for base development in visual
 - [Back & Forth](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth) - Adds go back/forward buttons for easier navigation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
+- [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) - Quick select code between brackets, support for (),{} and [], <>.
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
@@ -47,7 +48,6 @@ This extension package contains useful extensions for base development in visual
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 - [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-- [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) - Show the current file size in the status bar.
 - [Fold Plus](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus) - Additional fold commands.
 - [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) - Create, open and edit Gists.
 - [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.

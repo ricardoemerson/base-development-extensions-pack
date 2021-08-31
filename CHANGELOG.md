@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.3.0]
+
+- Added Bracket Select extension.
+- Removed filesize extension.
+
 ## [2.2.0]
 
 - Added toggle semicolon extension.
