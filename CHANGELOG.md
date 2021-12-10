@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.4.0]
+
+- Added Filter Line extension.
+
 ## [2.3.0]
 
 - Added Bracket Select extension.

@@ -48,6 +48,7 @@ This extension package contains useful extensions for base development in visual
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 - [Fast Snippet](https://marketplace.visualstudio.com/items?itemName=giyyapan.fast-snippet) - Insert small snippet (like '=>') with one command.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+- [Filter Line](https://marketplace.visualstudio.com/items?itemName=everettjf.filter-line) - Filter line by strings or regular expressions.
 - [Fold Plus](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus) - Additional fold commands.
 - [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) - Create, open and edit Gists.
 - [Git Easy](https://marketplace.visualstudio.com/items?itemName=bibhasdn.git-easy) - Making git easy and convenient.
