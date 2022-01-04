@@ -32,7 +32,6 @@ This extension package contains useful extensions for base development in visual
 - [Any Swap](https://marketplace.visualstudio.com/items?itemName=wolray.any-swap) - Swap parameters, lines, even complicated expressions from current cursor.
 - [Back & Forth](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth) - Adds go back/forward buttons for easier navigation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets.
 - [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) - Quick select code between brackets, support for (),{} and [], <>.
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [Close All](https://marketplace.visualstudio.com/items?itemName=benjpas.close-all) - Adds a close all button to the editor title area.
