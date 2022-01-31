@@ -30,6 +30,7 @@ This extension package contains useful extensions for base development in visual
 
 - [.gitignore Generator](https:fcodezombiech.gitignore//marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Generate .gitignore file using gitignore.io API.
 - [Any Swap](https://marketplace.visualstudio.com/items?itemName=wolray.any-swap) - Swap parameters, lines, even complicated expressions from current cursor.
+- [Auto Add Brackets in String Interpolation](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets) - Automatically add complete brackets when writing interpolated string.
 - [Back & Forth](https://marketplace.visualstudio.com/items?itemName=nick-rudenko.back-n-forth) - Adds go back/forward buttons for easier navigation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them.
 - [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) - Quick select code between brackets, support for (),{} and [], <>.

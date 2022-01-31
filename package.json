@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "Package extensions common to several languages.",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -64,6 +64,7 @@
   "extensionPack": [
     "alefragnani.Bookmarks",
     "albymor.increment-selection",
+    "aliariff.auto-add-brackets",
     "anweber.statusbar-commands",
     "Asuka.insertnumbers",
     "awesomektvn.toggle-semicolon",
