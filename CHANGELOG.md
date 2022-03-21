@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.6.1]
+
+- Removed Debugger for Chrome extension.
+
 ## [2.6.0]
 
 - Added Auto Add Brackets in String Interpolation extension.

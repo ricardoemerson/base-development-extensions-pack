@@ -39,7 +39,6 @@ This extension package contains useful extensions for base development in visual
 - [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager) - color picker and color palette.
 - [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) - Divide your code by sections with styled separators.
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) - Duplicte functionality like you are used to.
