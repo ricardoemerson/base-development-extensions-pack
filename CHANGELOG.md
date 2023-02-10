@@ -2,6 +2,18 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.8.0]
+
+- Added Badges extension.
+- Added comments-wiper extension.
+- Added filesize extension.
+- Added Font Preview extension.
+- Added Markdown Preview Github Styling extension.
+- Added PowerShell extension.
+- Added Prisma extension.
+- Added Subtitles Editor extension.
+- Added Thunder Client extension.
+
 ## [2.6.1]
 
 - Removed Debugger for Chrome extension.
