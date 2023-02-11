@@ -61,6 +61,7 @@ This extension package contains useful extensions for base development in visual
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore) - Add file to .gitignore.
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [google-search](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search) - Google your doubts, errors and confusions!
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Increment Selection](https://marketplace.visualstudio.com/items?itemName=albymor.increment-selection) - Increment selection with multiple cursors.
 - [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) - Advanced increment / decrement actions for just about anything!
 - [Insert Numbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers) - Insert increasing numbers.

@@ -4,6 +4,10 @@ All notable changes to the "base-development-extensions-pack" extension pack wil
 
 ## [2.8.0]
 
+- Added GraphQL extension.
+
+## [2.7.0]
+
 - Added Badges extension.
 - Added comments-wiper extension.
 - Added filesize extension.
