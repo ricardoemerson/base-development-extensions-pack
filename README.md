@@ -72,6 +72,7 @@ This extension package contains useful extensions for base development in visual
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 - [Meta-snippet for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-meta-snippet) - Snippet to define snippets for Visual Studio Code.
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) - Preserves case when editing with multiple cursors.
+- [Native-ASCII Converter](https://marketplace.visualstudio.com/items?itemName=cwan.native-ascii-converter) - Convert characters with Unicode escapes or vice versa. The same as 'native2ascii' tool of JDK.
 - [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) - A dark theme made by Rocketseat.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - Quickly open a new instance of VS Code from the Explorer.
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard.

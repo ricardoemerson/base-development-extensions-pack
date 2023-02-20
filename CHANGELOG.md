@@ -2,6 +2,10 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.9.0]
+
+- Added Native-ASCII Converter extension.
+
 ## [2.8.0]
 
 - Added GraphQL extension.
