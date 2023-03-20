@@ -2,6 +2,11 @@
 
 All notable changes to the "base-development-extensions-pack" extension pack will be documented in this file.
 
+## [2.10.0]
+
+- Added Commit Message Editor extension.
+- Added Conventional Commits extension.
+
 ## [2.9.0]
 
 - Added Native-ASCII Converter extension.

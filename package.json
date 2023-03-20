@@ -2,7 +2,7 @@
   "name": "base-development-extensions-pack",
   "displayName": "Base Development Extensions Pack",
   "description": "Package extensions common to several languages.",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/base-development-extensions-pack",
@@ -64,6 +64,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "adam-bender.commit-message-editor",
     "alefragnani.Bookmarks",
     "albymor.increment-selection",
     "aliariff.auto-add-brackets",
@@ -144,6 +145,7 @@
     "tyriar.sort-lines",
     "usernamehw.errorlens",
     "VisualStudioExptTeam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits",
     "wayou.vscode-todo-highlight",
     "wolray.any-swap",
     "wmaurer.change-case",

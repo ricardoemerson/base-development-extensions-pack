@@ -42,6 +42,8 @@ This extension package contains useful extensions for base development in visual
 - [Comment Bars](https://marketplace.visualstudio.com/items?itemName=zfzackfrost.commentbars) - Easily create comments that separate your code into sections.
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) - Divide your code by sections with styled separators.
 - [comments-wiper](https://marketplace.visualstudio.com/items?itemName=Bruce.comments-wiper) - Remove all comments from your code.
+- [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor) - Edit commit messages in a convenient way.
+- [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) - Conventional Commits for VSCode.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [Duplicate selection or line](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate) - Duplicate functionality like you are used to.
